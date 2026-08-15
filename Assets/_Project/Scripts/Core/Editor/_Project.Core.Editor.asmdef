@@ -1,0 +1,19 @@
+{
+    "name": "_Project.Core.Editor",
+    "rootNamespace": "",
+    "references": [
+        "_Project.Core",
+        "_Project.Experiment"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
